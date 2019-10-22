@@ -1,2 +1,2 @@
 # github-demo
-A simple to leave the repository
+A simple to demo the repository
